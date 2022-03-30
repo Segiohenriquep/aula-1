@@ -1,0 +1,4 @@
+print("hello word")
+
+entrada = input("Digite seu nome: ")
+print("Olá",entrada,"é um prazer te conhecer")
